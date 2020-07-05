@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://35.154.15.75:8081/repository/nuget-hosted/</url>
+	      <url>http://3.7.252.86:8081/repository/dilip2/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.154.15.75:8081/repository/nuget-hosted/</url>
+	      <url>http://3.7.252.86:8081/repository/dilip1/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
